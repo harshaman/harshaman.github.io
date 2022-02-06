@@ -1,3 +1,3 @@
-# harshaman.github.io
+# Aman Harsh
+[My Personal Website](https://harshaman.github.io)
 
-![](https://komarev.com/ghpvc/?username=harshaman&color=brightgreen)
